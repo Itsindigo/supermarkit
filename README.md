@@ -14,6 +14,9 @@ We built this MEAN stack app as our final project at [Makers Academy](www.makers
 
 ![Landing Page](/screenshots/Screen Shot 2016-04-13 at 15.57.17.png)
 
+## Video Demo
+Although our project isn't quite ready to be deployed yet, head here to see a video preview: [Vimeo SuperMarkIt](https://vimeo.com/166188235)
+
 ## Technologies
 
 #### Core
